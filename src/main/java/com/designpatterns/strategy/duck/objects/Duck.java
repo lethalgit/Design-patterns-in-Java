@@ -1,4 +1,4 @@
-package com.designpatterns.strategy.duck;
+package com.designpatterns.strategy.duck.objects;
 
 import com.designpatterns.strategy.duck.behaviors.FlyBehavior;
 import com.designpatterns.strategy.duck.behaviors.QuackBehavior;

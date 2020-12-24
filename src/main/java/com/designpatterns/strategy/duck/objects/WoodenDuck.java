@@ -1,6 +1,5 @@
-package com.designpatterns.strategy.duck;
+package com.designpatterns.strategy.duck.objects;
 
-import com.designpatterns.strategy.duck.Duck;
 import com.designpatterns.strategy.duck.behaviors.Impl.FlyNone;
 import com.designpatterns.strategy.duck.behaviors.Impl.QuackMute;
 

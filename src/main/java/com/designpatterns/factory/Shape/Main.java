@@ -1,5 +1,9 @@
 package com.designpatterns.factory.Shape;
 
+import com.designpatterns.factory.Shape.dtos.InputDto;
+import com.designpatterns.factory.Shape.dtos.ShapeEnum;
+import com.designpatterns.factory.Shape.shapes.Shape;
+
 /**
  * created by saurabhgupta on 21/12/20
  */

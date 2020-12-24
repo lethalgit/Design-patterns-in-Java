@@ -1,6 +1,6 @@
-package com.designpatterns.strategy.payment.Impl;
+package com.designpatterns.strategy.payment.behaviors.Impl;
 
-import com.designpatterns.strategy.payment.PaymentStrategy;
+import com.designpatterns.strategy.payment.behaviors.PaymentStrategy;
 
 /**
  * created by saurabhgupta on 12/12/20

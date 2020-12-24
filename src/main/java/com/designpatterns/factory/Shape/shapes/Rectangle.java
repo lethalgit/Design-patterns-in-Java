@@ -1,4 +1,4 @@
-package com.designpatterns.factory.Shape;
+package com.designpatterns.factory.Shape.shapes;
 
 /**
  * created by saurabhgupta on 21/12/20
@@ -12,17 +12,17 @@ public class Rectangle extends Shape{
     }
 
     @Override
-    double calculateArea() {
+    public double calculateArea() {
         return length*breadth;
     }
 
     @Override
-    String shapeName() {
+    public String shapeName() {
         return Rectangle.class.getName();
     }
 
     @Override
-    double calculateCircumference() {
+    public double calculateCircumference() {
         return 2*length*breadth;
     }
 }

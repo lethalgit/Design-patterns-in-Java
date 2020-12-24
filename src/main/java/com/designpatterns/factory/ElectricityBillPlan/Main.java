@@ -1,5 +1,7 @@
 package com.designpatterns.factory.ElectricityBillPlan;
 
+import com.designpatterns.factory.ElectricityBillPlan.plans.Plan;
+
 /**
  * created by saurabhgupta on 21/12/20
  */

@@ -1,4 +1,4 @@
-package com.designpatterns.strategy.payment;
+package com.designpatterns.strategy.payment.behaviors;
 
 /**
  * created by saurabhgupta on 12/12/20

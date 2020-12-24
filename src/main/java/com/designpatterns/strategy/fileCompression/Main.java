@@ -1,6 +1,6 @@
 package com.designpatterns.strategy.fileCompression;
 
-import com.designpatterns.strategy.fileCompression.Impl.RarCompressionStrategy;
+import com.designpatterns.strategy.fileCompression.behaviors.Impl.RarCompressionStrategy;
 
 /**
  * created by saurabhgupta on 2020-12-12

@@ -1,4 +1,4 @@
-package com.designpatterns.factory.Shape;
+package com.designpatterns.factory.Shape.shapes;
 
 /**
  * created by saurabhgupta on 21/12/20
@@ -11,17 +11,17 @@ public class Circle extends Shape{
     }
 
     @Override
-    double calculateArea() {
+    public double calculateArea() {
         return Math.PI*radius*radius;
     }
 
     @Override
-    String shapeName() {
+    public String shapeName() {
         return Circle.class.getName();
     }
 
     @Override
-    double calculateCircumference() {
+    public double calculateCircumference() {
         return 2*Math.PI*radius;
     }
 }

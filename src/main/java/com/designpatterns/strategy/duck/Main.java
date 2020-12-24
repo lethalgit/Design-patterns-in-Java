@@ -1,7 +1,8 @@
 package com.designpatterns.strategy.duck;
 
-import com.designpatterns.strategy.duck.behaviors.FlyBehavior;
-import com.designpatterns.strategy.duck.behaviors.QuackBehavior;
+import com.designpatterns.strategy.duck.objects.DummyDuck;
+import com.designpatterns.strategy.duck.objects.ForestDuck;
+import com.designpatterns.strategy.duck.objects.WoodenDuck;
 
 /**
  * created by saurabhgupta on 12/12/20

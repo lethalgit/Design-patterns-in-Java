@@ -1,6 +1,6 @@
 package com.designpatterns.strategy.payment;
 
-import com.designpatterns.strategy.payment.Impl.CardPaymentStrategy;
+import com.designpatterns.strategy.payment.behaviors.Impl.CardPaymentStrategy;
 
 /**
  * created by saurabhgupta on 12/12/20

@@ -1,4 +1,4 @@
-package com.designpatterns.factory.Shape;
+package com.designpatterns.factory.Shape.dtos;
 
 
 import lombok.Builder;
